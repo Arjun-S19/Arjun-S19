@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Arjun-S19
+- 🎓 I'm in High School.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python, Java, R, and SQL
+- 📫 Reach me at arjnsenthil@gmail.com
