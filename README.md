@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300px">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250px">
 
-Welcome! I'm Arjun Senthil
+<h1 style="font-size:40px;">Welcome! I'm Arjun Senthil</h1>
 
 <a href="https://www.linkedin.com/in/arjun-senthil-9475b119a/">
   <img align="Left" alt="Arjun's Linkedin" width="67px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" />
@@ -13,7 +13,11 @@ Welcome! I'm Arjun Senthil
 
 <br />
 <br />
-<br />
+
 - 👀 I’m interested in Data Science and Ethical Hacking
+
 - 🌱 I’m currently learning Python, Java, R, SQL, and Linux
+
 - 📫 Reach me at arjnsenthil@gmail.com
+
+
