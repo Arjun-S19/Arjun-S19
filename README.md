@@ -1,4 +1,4 @@
-### Welcome, I'm Arjun Senthil <img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="25px">
+### Welcome, I'm Arjun Senthil <img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="75px">
 <a href="https://www.linkedin.com/in/arjun-senthil-9475b119a/">
   <img align="Right" alt="Arjun's Linkedin" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
