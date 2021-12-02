@@ -1,8 +1,16 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.linkedin.com/in/arjun-senthil-9475b119a/)
+### Welcome, I'm Arjun Senthil <img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/arjun-senthil-9475b119a/">
+  <img align="Right" alt="Arjun's Linkedin" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/arjun12367">
+  <img align="Right" alt="Arjuns's Spotify" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Arjun Senthil. I am a high schooler interested in Data Science and Ethical Hacking. I’m currently learning Python, Java, R, SQL, and Linux. You can reach me at arjnsenthil@gmail.com
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+<br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+- 👋 Hi, I’m Arjun Senthil
+- 👀 I’m interested in Data Science and Ethical Hacking
+- 🌱 I’m currently learning Python, Java, R, SQL, and Linux
+- 📫 Reach me at arjnsenthil@gmail.com
