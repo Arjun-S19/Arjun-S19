@@ -10,9 +10,7 @@
   <img align="Left" alt="Arjuns's Spotify" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />
 </a>
 <br />
-
-<br />
-<br />
+<br/ >
 
 - 👀 I’m interested in Data Science and Ethical Hacking
 
