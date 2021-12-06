@@ -3,11 +3,11 @@
 <h1 style="font-size:40px;">Welcome! I'm Arjun Senthil</h1>
 
 <a href="https://www.linkedin.com/in/arjun-senthil-9475b119a/">
-  <img align="Left" alt="Arjun's Linkedin" width="67px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" />
+  <img align="Left" alt="Arjun's Linkedin" width="67px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <a href="https://open.spotify.com/user/arjun12367">
-  <img align="Left" alt="Arjuns's Spotify" width="150px" src="https://media.giphy.com/media/wbDi9AWwbKMYo56Yk2/giphy.gif" />
+  <img align="Left" alt="Arjuns's Spotify" width="150px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />
 </a>
 <br />
 
