@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/arjun12367">
-  <img align="Left" alt="Arjuns's Spotify" width="33px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />
+  <img align="Left" alt="Arjuns's Spotify" width="34px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />
 </a>
 <br />
 <br/ >
