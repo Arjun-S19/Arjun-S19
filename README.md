@@ -12,7 +12,7 @@
 <br />
 <br/ >
 
-## &#x1f4c8; Info
+## Info
 
 - 👀 I’m interested in Data Science and Ethical Hacking
 
@@ -20,7 +20,7 @@
 
 - 📫 Reach me at arjnsenthil@gmail.com
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Arjun-S19&theme=merko)
 
