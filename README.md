@@ -12,10 +12,22 @@
 <br />
 <br/ >
 
+## &#x1f4c8; Info
+
 - 👀 I’m interested in Data Science and Ethical Hacking
 
 - 🌱 I’m currently learning Python, Java, R, SQL, and Linux
 
 - 📫 Reach me at arjnsenthil@gmail.com
+
+## &#x1f4c8; GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ParadoxFlame&theme=merko)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ParadoxFlame&theme=merko)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&theme=merko&layout=large)
+
+![](https://komarev.com/ghpvc/?username=ParadoxFlame&theme=merko)
 
 
