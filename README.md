@@ -22,12 +22,12 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ParadoxFlame&theme=merko)
+![](https://github-readme-stats.vercel.app/api?username=Arjun-S19&theme=merko)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ParadoxFlame&theme=merko)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arjun-S19&theme=merko)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&theme=merko&layout=large)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-S19&theme=merko&layout=large)
 
-![](https://komarev.com/ghpvc/?username=ParadoxFlame&theme=merko)
+![](https://komarev.com/ghpvc/?username=Arjun-S19&theme=merko)
 
 
