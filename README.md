@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250px">
 
-<h1 style="font-size:40px;">Welcome! I'm Arjun Senthil</h1>
+<h1 style="font-size:40px;">Welcome! I'm Arjun Senthil <img src="https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/wave.gif" width="32px"> </h1>
 
 <a href="https://www.linkedin.com/in/arjun-senthil-9475b119a/">
   <img align="Left" alt="Arjun's Linkedin" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/1200px-LinkedIn_Logo_2013.svg.png" />
