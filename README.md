@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250px">
-
+<img class="animated-gif" src="https://user-images.githubusercontent.com/68448255/154585612-be278262-4cfa-42a9-93ad-b7626fd85fb4.gif" width="450px">
 <h1 style="font-size:40px;">Welcome! I'm Arjun Senthil <img src="https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/wave.gif" width="32px"> </h1>
 
 [<img src='https://api.iconify.design/logos/linkedin-icon.svg' alt='Linkedin' height='40'>](https://www.linkedin.com/in/arjun-senthil-9475b119a/) &nbsp;
