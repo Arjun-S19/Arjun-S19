@@ -3,7 +3,7 @@
 
 [<img src='https://api.iconify.design/logos/linkedin-icon.svg' alt='Linkedin' height='40'>](https://www.linkedin.com/in/arjun-senthil-9475b119a/) &nbsp;
 &nbsp;
-[<img src='https://api.iconify.design/akar-icons/instagram-fill.svg?color=%23e4405f' alt='Instagram' height='40'>](https://www.instagram.com/arsunol_19/) &nbsp;
+[<img src='https://api.iconify.design/akar-icons/instagram-fill.svg?color=%23e4405f' alt='Instagram' height='40'>](https://www.instagram.com/arsunolwrld/) &nbsp;
 &nbsp;
 [<img src='https://api.iconify.design/logos/spotify-icon.svg' alt='Spotify' height='40'>](https://open.spotify.com/user/arjun12367) &nbsp;
 
