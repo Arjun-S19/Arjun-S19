@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning Python, Java, R, SQL, and Linux
 
+- ⚡ Some of my hobbies include video editing using Adobe Premiere Pro and Adobe After Effects, photo editing using Adobe Photoshop, and audio editing using FL Studio
+
 - 📫 Reach me at arjnsenthil@gmail.com
 
 ## GitHub Stats
