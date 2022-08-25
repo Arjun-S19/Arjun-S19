@@ -1,4 +1,4 @@
-<img class="animated-gif" src="https://user-images.githubusercontent.com/68448255/154585612-be278262-4cfa-42a9-93ad-b7626fd85fb4.gif" width="450px">
+<img class="animated-gif" src="https://i.pinimg.com/originals/70/51/3c/70513c5c5690f6ff330e2b78dab9762e.gif" width="450px">
 <h1 style="font-size:40px;">Welcome! I'm Arjun Senthil </h1>
 
 [<img src='https://api.iconify.design/logos/linkedin-icon.svg' alt='Linkedin' height='40'>](https://www.linkedin.com/in/arjun-senthil-9475b119a/) &nbsp;
