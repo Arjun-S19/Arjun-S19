@@ -21,8 +21,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arjun-S19&theme=merko)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-S19&theme=merko&layout=large)
-
 ![](https://komarev.com/ghpvc/?username=Arjun-S19&theme=merko)
 
 
