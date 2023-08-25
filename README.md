@@ -9,13 +9,11 @@
 
 ## Info
 
-- 👀 I’m interested in Data Science and Ethical Hacking
+- 👀 I’m interested in data science, machine learning, graphic design, and music production
 
-- 🌱 I’m currently learning Python, Java, R, SQL, and Linux
+- ⚡ Experience with Python, Java, ReactJS, HTML, FL Studio, Adobe Audition, Adobe After Effects, Adobe Premiere Pro, and Adobe Photoshop
 
-- ⚡ Some of my hobbies include video editing using Adobe Premiere Pro and Adobe After Effects, photo editing using Adobe Photoshop, and working with music and beats using FL Studio
-
-- 📫 Reach me at arjnsenthil@gmail.com
+- 📫 DM me on Discord, my username is Arsunol
 
 ## GitHub Stats
 
